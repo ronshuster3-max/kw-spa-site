@@ -1,0 +1,99 @@
+{
+  "business": {
+    "name": "KW Spa",
+    "tagline": "Massage therapy in downtown Jersey City",
+    "address": "206 Washington Street, Jersey City, NJ",
+    "phone": "(201) 322-5888",
+    "hours": "Open daily, 10:00 AM - 10:00 PM",
+    "bookingUrl": "https://www.go3reservation.com/",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=206%20Washington%20Street%20Jersey%20City%20NJ",
+    "notice": "Demo pricing below is editable and should be confirmed with the owner before publishing."
+  },
+  "services": [
+    {
+      "name": "Back Massage",
+      "duration": "30 / 60 min",
+      "price": "Confirm price",
+      "description": "Focused relief for the neck, shoulders, and back with pressure adjusted to your comfort."
+    },
+    {
+      "name": "Deep Tissue Massage",
+      "duration": "60 / 90 min",
+      "price": "Confirm price",
+      "description": "A firmer therapeutic session designed for chronic tension, tight muscles, and recovery support."
+    },
+    {
+      "name": "Reflexology",
+      "duration": "30 / 60 min",
+      "price": "Confirm price",
+      "description": "Targeted pressure-point work for the feet to encourage relaxation and whole-body balance."
+    },
+    {
+      "name": "Foot Massage",
+      "duration": "30 / 60 min",
+      "price": "Confirm price",
+      "description": "A calming foot-focused treatment for tired legs, long workdays, and reset moments."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Nitya N.",
+      "location": "Mason, OH",
+      "date": "Aug 2025",
+      "source": "Yelp",
+      "quote": "Amazing price, phenomenal massage, and warm hospitality.",
+      "rating": 5
+    },
+    {
+      "name": "Nya G.",
+      "location": "Jersey City, NJ",
+      "date": "Oct 2023",
+      "source": "Yelp",
+      "quote": "Great deep tissue massage, easy online booking, fair pricing, and hot stones that felt amazing.",
+      "rating": 5
+    },
+    {
+      "name": "Annie H.",
+      "location": "Manhattan, NY",
+      "date": "Oct 2025",
+      "source": "Yelp",
+      "quote": "Clean, flexible with appointment times, reasonable prices, and excellent deep tissue massage.",
+      "rating": 5
+    },
+    {
+      "name": "Beverly G.",
+      "location": "Jersey City, NJ",
+      "date": "Oct 2025",
+      "source": "Yelp",
+      "quote": "A calm, quiet, no-frills place with knowledgeable hands that got the knots out.",
+      "rating": 5
+    },
+    {
+      "name": "Evie F.",
+      "location": "Jersey City, NJ",
+      "date": "Mar 2024",
+      "source": "Yelp",
+      "quote": "Fantastic couples massage, kind staff, and very inexpensive.",
+      "rating": 5
+    }
+  ],
+  "promos": [
+    "Same-day appointments available when the schedule allows",
+    "Gift-card and package promotions can be added here",
+    "Walk-ins welcome, booking recommended"
+  ],
+  "faq": [
+    {
+      "question": "Do I need an appointment?",
+      "answer": "Appointments are recommended, especially evenings and weekends. Walk-ins can be accepted when staff is available."
+    },
+    {
+      "question": "Can I choose pressure level?",
+      "answer": "Yes. Tell the therapist if you prefer lighter, medium, or deeper pressure."
+    },
+    {
+      "question": "Are prices final?",
+      "answer": "This portfolio version keeps prices editable. Confirm the current menu with KW Spa before publishing."
+    }
+  ]
+}

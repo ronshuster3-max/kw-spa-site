@@ -1,0 +1,16 @@
+{
+  "name": "kw-spa-premium-site",
+  "version": "1.0.0",
+  "description": "Portfolio-ready KW Spa website with local backend and admin dashboard.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "spa",
+    "portfolio",
+    "website"
+  ],
+  "author": "",
+  "license": "UNLICENSED"
+}
